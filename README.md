@@ -1,4 +1,4 @@
-### Hi there 👋
+![snake gif](https://github.com/3G42/3G42/blob/output/github-contribution-grid-snake.svg)
 
 <!--
 **3G42/3G42** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
